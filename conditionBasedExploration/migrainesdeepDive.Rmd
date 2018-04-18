@@ -1,0 +1,52 @@
+---
+title: "migraineDeepDive"
+author: "Cassandra Bayer"
+date: "2/19/2018"
+output: html_document
+---
+
+Source controller to clear env and load packages/data
+```{r setup, include=FALSE}
+source("Controller.R")
+```
+
+## Initial Flaredown Exploration; Migraines
+
+# Basic summary stats: how many users, average usership, men vs. women, how many days per user, etc.
+
+# Periodicity
+```{r cars}
+summary(cars)
+```
+
+# Length of tracking migraines
+```{r cars}
+summary(cars)
+```
+
+
+# Weather
+```{r pressure, echo=FALSE}
+
+```
+
+# Symptoms and conditions frequently tracked with migraines
+```{r cars}
+summary(cars)
+```
+
+# Demographics associated with migraines
+```{r pressure, echo=FALSE}
+
+```
+
+# Correlated cause and effect of migraines
+```{r pressure, echo=FALSE}
+
+```
+
+# Summary and graphics
+```{r pressure, echo=FALSE}
+
+```
+
